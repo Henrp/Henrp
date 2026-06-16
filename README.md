@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Henry.</h2>
+<h2 align="center">Hi, I'm Henry.</h2>
 <p>
   I’m a computing and music enthusiast majoring in
   <strong>Electrical Engineering and Computer Sciences (EECS)</strong> at
