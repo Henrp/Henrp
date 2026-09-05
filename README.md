@@ -6,10 +6,11 @@
 </p>
 <p>My 🛠️ tech stack is as follows:</p>
 <ul>
-  <li><strong>Languages:</strong> Python, JavaScript, TypeScript, C++</li>
-  <li><strong>Frameworks:</strong> React, Next.js, Tailwind, Supabase</li>
-  <li><strong>ML Tools:</strong> PyTorch, TensorFlow, Librosa, OpenCV</li>
-  <li><strong>Other:</strong> LangChain, Pinecone, Vercel</li>
+  <li><strong>Languages:</strong> Python, Java, C++, JavaScript, TypeScript</li>
+  <li><strong>Frameworks:</strong> React, Next.js, Vue, Quasar, Tailwind CSS</li>
+  <li><strong>Databases:</strong> PostgreSQL, MongoDB, SQLite</li>
+  <li><strong>ML / Data:</strong> PyTorch, NumPy, Pandas, OpenCV</li>
+  <li><strong>Tools:</strong> Git, Docker, Amazon Q, Playwright, Figma</li>
 </ul>
 
 
