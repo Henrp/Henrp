@@ -4,7 +4,7 @@
   <strong>Electrical Engineering and Computer Sciences (EECS)</strong> at
   <strong>UC Berkeley</strong>. 
 </p>
-<p>My 🛠️ tech stack is as follows:</p>
+<p>My tech stack is as follows:</p>
 <ul>
   <li><strong>Languages:</strong> Python, Java, C++, JavaScript, TypeScript</li>
   <li><strong>Frameworks:</strong> React, Next.js, Vue, Quasar, Tailwind CSS</li>
