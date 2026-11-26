@@ -1,6 +1,6 @@
 <p>
-  Hi, I'm Henry. I’m a computing and music enthusiast majoring in
-  <strong>Electrical Engineering and Computer Sciences</strong> at
+  Hi, I'm Henry. I’m a computing and music enthusiast studying
+  electrical engineering and computer sciences at
   <strong>UC Berkeley</strong>. 
 </p>
 <p>My tech stack is as follows:</p>
